@@ -1,0 +1,173 @@
+/*
+
+ * Created By KyyXD
+ * Base : Dpt Dr Pengikut Ceha
+ * Whatsapp : 6288286624778
+ * Chanel : https://whatsapp.com/channel/0029Vb7gTNO5a2450z5MnD0k
+ 
+*/
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ SETTINGS OWNER ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ \\
+global.owner = ["6287895338730"]
+global.ownerName = "maourafa"
+global.fother = "ｍａｏｕｒａｆａ"
+global.packname = 'Stick By'
+global.author = 'maourafa'
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ SETTINGS BOT ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+global.namabot = "魔王ｍａｏｕｒａｆａ|ᵇᵒᵗ"
+global.baileys = "@fizzxydev/baileys-pro"
+global.self = false
+global.public = false
+global.nomorbot = "6282278687542"
+global.version = "1.0.0"
+global.autoread = false
+global.autotyping = false
+global.wlcm = []
+global.wlcmm = []
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ SETTINGS IMAGE ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ \\
+global.warn = "https://img12.pixhost.to/images/1490/584818417_6726.jpg"
+global.qris = "https://i.ibb.co/PZsRxbHN/qr-ID1025407392477-01-06-25-174872239-1748722399574-2.jpg"
+global.thumblist = "https://i.ibb.co/QFm6DBsw/Untitled4-20250601175921.png"
+global.thumb = "https://i.ibb.co/QFm6DBsw/Untitled4-20250601175921.png"
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ SETTINGS CPANEL ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ \\
+global.egg = "15"
+global.nestid = "5"
+global.loc = "1"
+global.domain = "https://list.maourafavpn.my.id"//domain
+global.apikey = "ptla_vt5PTG7u6hh1YdDt8rB2SuZSHNSeIGEIS15qqnn9j78"//plta
+global.capikey = "ptlc_6nGMJ8o0iQXwRs3TfAUtw9m1AGlmjnTyvA7tnrMtggs"//pltc
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ SETTINGS API ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ \\
+global.qriscode = "00020101021126570011ID.DANA.WWW011893600915391852552602099185255260303UMI51440014ID.CO.QRIS.WWW0215ID10254073924770303UMI5204549953033605802ID5914MAOURAFA STORE6015Kab. Lampung Te61053416663042162" // Generate Di ReadQR
+global.kyyapi = " " // Buy Aja Di 6288286624778 https://restapi.kyyapiz.biz.id/
+global.merchan = " " // Ambil di okeconnect
+global.keyorkut = " " // Ambil Di Okeconnect
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ SETTINGS ALL INFO ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ \\
+global.website = "https://chat.whatsapp.com/CIMeGjTupQy2KuMXhxpY2w"
+global.idch = ['120363328148463101@newsletter'] 
+global.ceha = "https://whatsapp.com/channel/0029VaiKMO3KrWR1A35DRN1O"
+global.linkgc = "https://chat.whatsapp.com/CIMeGjTupQy2KuMXhxpY2w"
+global.yt = "https://www.youtube.com/@maourafa"
+
+
+// MESSEGAE BOTZ SETTING = JANGAN DI OTAK ATIK \\
+global.mess = {
+    success: 'sᴜᴄᴄᴇssғᴜʟʏ',
+    admin: '[ !! ] *sʏsᴛᴇᴍ*\nᴋʜᴜsᴜs ᴀᴅᴍɪɴ ɢʀᴏᴜᴘ',
+    botAdmin: '[ !! ] *sʏsᴛᴇᴍ*\nᴀᴋᴀᴍᴇ ʙᴇʟᴜᴍ ᴊᴀᴅɪ ᴀᴅᴍɪɴ',
+    creator: '[ !! ] *sʏsᴛᴇᴍ*\nғᴇᴀᴛᴜʀᴇ ɪɴɪ ᴋʜᴜsᴜs ᴋʏʏ ᴅᴏᴀɴᴋ',
+    group: '[ !! ] *sʏsᴛᴇᴍ*\nғᴇᴀᴛᴜʀᴇ ɪɴᴜ ᴋʜᴜsᴜs ɢʀᴏᴜᴘ ᴀᴊᴀ',
+    private: '[ !! ] *sʏsᴛᴇᴍ*\nғᴇᴀᴛᴜʀᴇ ᴋʜᴜsᴜs ᴘʀɪᴠᴀᴛᴇ ᴄʜᴀᴛ ᴀᴋᴀᴍᴇ',
+    wait: '[ !! ] *sʏsᴛᴇᴍ*\nᴡᴀɪᴛ ᴀᴋᴀᴍᴇ ᴘʀᴏsᴇs ᴅᴜʟᴜ',
+    notregist: 'ᴋᴀᴍᴜ ʙᴇʟᴜᴍ ᴛᴇʀᴅᴀғᴛᴀʀ ᴅɪ ᴅᴀᴛᴀʙᴀsᴇ ᴀᴋᴀᴍᴇ sɪʟᴀʜᴋᴀɴ ᴅᴀғᴛᴀʀ ᴅᴇɴɢᴀɴ ᴄᴀʀᴀ\n\n.ᴅᴀғᴛᴀʀ ɴᴀᴍᴀ,ᴜᴍᴜʀ\n.ᴅᴀғᴛᴀʀ maou.𝟸𝟶',
+    premium: '[ !! ] *sʏsᴛᴇᴍ*\nғᴇᴀᴛᴜʀᴇ ᴋʜᴜsᴜs ᴘʀᴇᴍɪᴜᴍ ᴀᴋᴀᴍᴇ',
+    endLimit: '[ !! ] *sʏsᴛᴇᴍ*\nʟɪᴍɪᴛ ᴀɴᴅᴀ ʜᴀʙɪs ,, ᴀᴋᴀɴ ᴅɪ ʀᴇsᴇᴛ sᴇᴛᴇʟᴀʜ sᴇʜᴀʀɪ',
+}
+
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ SETTINGS LIMITZ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ //
+global.limitawal = {
+    premium: "Infinity",
+    free: 30
+}
+
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ SETTINGS RPG ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ \\
+global.rpg = {
+emoticon(string) {
+string = string.toLowerCase()
+let emot = {
+level: '📊',
+limit: '🎫',
+health: '❤️',
+exp: '✨',
+atm: '💳',
+money: '💰',
+bank: '🏦',
+potion: '🥤',
+diamond: '💎',
+common: '📦',
+uncommon: '🛍️',
+mythic: '🎁',
+legendary: '🗃️',
+superior: '💼',
+pet: '🔖',
+trash: '🗑',
+armor: '🥼',
+sword: '⚔️',
+pickaxe: '⛏️',
+fishingrod: '🎣',
+wood: '🪵',
+rock: '🪨',
+string: '🕸️',
+horse: '🐴',
+cat: '🐱',
+dog: '🐶',
+fox: '🦊',
+robo: '🤖',
+petfood: '🍖',
+iron: '⛓️',
+gold: '🪙',
+emerald: '❇️',
+upgrader: '🧰',
+bibitanggur: '🌱',
+bibitjeruk: '🌿',
+bibitapel: '☘️',
+bibitmangga: '🍀',
+bibitpisang: '🌴',
+anggur: '🍇',
+jeruk: '🍊',
+apel: '🍎',
+mangga: '🥭',
+pisang: '🍌',
+botol: '🍾',
+kardus: '📦',
+kaleng: '🏮',
+plastik: '📜',
+gelas: '🧋',
+chip: '♋',
+umpan: '🪱',
+skata: '🧩'
+}
+let results = Object.keys(emot).map(v => [v, new RegExp(v, 'gi')]).filter(v => v[1].test(string))
+if (!results.length) return ''
+else return emot[results[0][0]]
+}
+}
+
+// SETTING GAME
+global.gamewaktu = 60 // Game waktu
+
+// DATABASE GAME
+global.suit = {};
+global.tictactoe = {};
+global.petakbom = {};
+global.kuis = {};
+global.siapakahaku = {};
+global.asahotak = {};
+global.susunkata = {};
+global.caklontong = {};
+global.family100 = {};
+global.tebaklirik = {};
+global.tebaklagu = {};
+global.tebakgambar2 = {};
+global.tebakkimia = {};
+global.tebakkata = {};
+global.tebakkalimat = {};
+global.tebakbendera = {};
+global.tebakanime = {};
+global.kuismath = {};
+
+
+let fs = require('fs')
+let file = require.resolve(__filename)
+fs.watchFile(file, () => {
+fs.unwatchFile(file)
+console.log(`Update ${__filename}`)
+delete require.cache[file]
+require(file)
+})
